@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $(".kit2").click(function(){
+  $(".star").click(function(){
     if ($(".frame").hasClass("f1")) {
       $(".frame").removeClass("f1");
       $(".frame").addClass("f2");
@@ -43,9 +43,4 @@ $(document).ready(function(){
       }
     });
   } );
-  $(".chel").click(function(){
-    if ($(".kit").hasClass("none")) {
-      $(".kit2").addClass("animka")) {
-    }
-  });
 });

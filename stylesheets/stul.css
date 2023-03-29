@@ -20,7 +20,7 @@ body {
   background-size: cover;
 }
 .none {
-  opacity: 0;
+  display: none;
 }
 .star {
   width: 11.3vw;
@@ -39,7 +39,7 @@ body {
   width: 48.2vw;
   height: 31vw;
   background: #FF5732;
-  margin-top: -11vw;
+  margin-top: 0vw;
 }
 h1 {
   font-family: Inter;
@@ -70,7 +70,7 @@ h1:nth-of-type(2){
 }
 .t2 {
   margin-left: 0vw;
-  margin-top: -30.8vw;
+  margin-top: 0vw;
 }
 .exist {
   opacity: 1;
