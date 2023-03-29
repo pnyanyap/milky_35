@@ -1,0 +1,119 @@
+body {
+  width: 100vw;
+  height: 57vw;
+}
+.frame{
+  width: 100vw;
+  height: 31vw;
+  overflow: hidden;
+}
+.f1 {
+  background: url(../images/frame.png);
+  background-repeat: no-repeat;
+  padding: 13vw 0vw;
+  background-size: cover;
+}
+.f2 {
+  height: 57vw;
+  background: url(../images/frame2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.none {
+  opacity: 0;
+}
+.star {
+  width: 11.3vw;
+  height: 11vw;
+  margin-left: 61vw;
+  background: url('../images/star.svg');
+  background-repeat: no-repeat;
+  animation: star .5s linear alternate infinite;
+  background-size: cover;
+}
+@keyframes star {
+  0% {transform: scale(1);}
+  100% {transform: scale(2);}
+}
+.text1 {
+  width: 48.2vw;
+  height: 31vw;
+  background: #FF5732;
+  margin-top: -11vw;
+}
+h1 {
+  font-family: Inter;
+  color: white;
+  font-size: 2.35vw;
+  line-height: 2.5vw;
+}
+h1:nth-of-type(2){
+  margin-top: 4vw;
+}
+.strelka {
+  width: 2vw;
+  height: 4.2vw;
+  margin-left: 45.9vw;
+  margin-top: 7.6vw;
+  background: url('../images/strelka.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.strelka2 {
+  width: 2vw;
+  height: 4.2vw;
+  margin-left: 0.2vw;
+  margin-top: 11.5vw;
+  background: url('../images/strelka2.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.t2 {
+  margin-left: 0vw;
+  margin-top: -30.8vw;
+}
+.exist {
+  opacity: 1;
+}
+.chel {
+  width: 28.5vw;
+  height: 19vw;
+  margin-left: 13vw;
+  margin-top: 1.5vw;
+  background: url('../images/chel.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.kit {
+  width: 46vw;
+  height: 54vw;
+  margin-left: 54vw;
+  margin-top: -48.5vw;
+  background: url('../images/kit.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.exist1 {
+  width: 92vw;
+  height: 69vw;
+  margin-left: 37vw;
+  margin-top: -54.5vw;
+  background: url('../images/k.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mesto {
+  width: 92vw;
+  height: 69vw;
+  margin-left: 44vw;
+  margin-top: -101vw;
+}
+.kit2 {
+  width: 46vw;
+  height: 54vw;
+  margin-left: 54vw;
+  margin-top: -36.5vw;
+  background: url('../images/kit2.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
