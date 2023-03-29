@@ -13,6 +13,7 @@ $(document).ready(function(){
       $(".chel").removeClass("none");
       $(".kit").removeClass("none");
       $(".k").addClass("exist1");
+      $(".mesto").removeClass("none");
     }
   });
   $(".strelka").click(function(){

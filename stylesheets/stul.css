@@ -79,7 +79,7 @@ h1:nth-of-type(2){
   width: 28.5vw;
   height: 19vw;
   margin-left: 13vw;
-  margin-top: 1.5vw;
+  margin-top: 32.5vw;
   background: url('../images/chel.svg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -88,7 +88,7 @@ h1:nth-of-type(2){
   width: 46vw;
   height: 54vw;
   margin-left: 54vw;
-  margin-top: -48.5vw;
+  margin-top: -50vw;
   background: url('../images/kit.svg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -97,7 +97,7 @@ h1:nth-of-type(2){
   width: 92vw;
   height: 69vw;
   margin-left: 37vw;
-  margin-top: -54.5vw;
+  margin-top: -55vw;
   background: url('../images/k.png');
   background-repeat: no-repeat;
   background-size: cover;
@@ -106,13 +106,13 @@ h1:nth-of-type(2){
   width: 92vw;
   height: 69vw;
   margin-left: 44vw;
-  margin-top: -101vw;
+  margin-top: -77vw;
 }
 .kit2 {
   width: 46vw;
   height: 54vw;
   margin-left: 54vw;
-  margin-top: -36.5vw;
+  margin-top: -56vw;
   background: url('../images/kit2.svg');
   background-repeat: no-repeat;
   background-size: cover;
