@@ -41,7 +41,11 @@ $(document).ready(function(){
         $(".kit").addClass("none");
         $(".kit2").removeClass("none");
       }
-
     });
   } );
+  $(".chel").click(function(){
+    if ($(".kit").hasClass("none")) {
+      $(".kit2").addClass("animka")) {
+    }
+  });
 });
