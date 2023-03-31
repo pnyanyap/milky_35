@@ -9,14 +9,14 @@ body {
   overflow: hidden;
 }
 .f1 {
-  background: url(../images/iphone.png);
+  background: url('../images/iphone.png');
   background-repeat: no-repeat;
   padding: 13vw 0vw;
   background-size: cover;
 }
 .f2 {
   height: 216.3vw;
-  background: url(../images/iphone2.png);
+  background: url('../images/iphone2.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
