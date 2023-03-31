@@ -1,3 +1,5 @@
-<svg width="184" height="184" viewBox="0 0 184 184" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.5" y="1.5" width="181" height="181" fill="#FF5732" stroke="black" stroke-width="3"/>
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.5" y="1.5" width="147" height="147" fill="#FF5732" stroke="black" stroke-width="3"/>
+<rect x="44" y="38" width="62" height="111" fill="black"/>
+<circle cx="98" cy="91" r="3" fill="#FF5732"/>
 </svg>
