@@ -37,22 +37,22 @@ body {
   100% {transform: scale(2);}
 }
 .text1 {
-  width: 48.2vw;
-  height: 31vw;
+  width: 71vw;
+  height: 53vw;
   background: #FF5732;
   margin-top: 0vw;
 }
 .text2 {
-  width: 48.2vw;
-  height: 31vw;
+  width: 71vw;
+  height: 53vw;
   background: #FF5732;
   margin-top: 0vw;
 }
 h1 {
   font-family: Inter;
   color: white;
-  font-size: 2.35vw;
-  line-height: 2.5vw;
+  font-size: 3.5vw;
+  line-height: 4vw;
 }
 .t0 {
   margin-top: 4vw;
@@ -60,29 +60,32 @@ h1 {
 .strelka {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 46.8vw;
-  margin-top: 9.1vw;
+  margin-left: 69.2vw;
+  margin-top: 21.3vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .strelka2 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 0vw;
-  margin-top: 13.1vw;
+  margin-left: 0.4vw;
+  margin-top: 25.3vw;
   background: url('../images/strelka2.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .strelka3 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 46.8vw;
+  margin-left: 69.2vw;
   margin-top: -2.8vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .t2 {
   margin-left: 0vw;
@@ -94,8 +97,8 @@ h1 {
 .chel {
   width: 28.7vw;
   height: 19.1vw;
-  margin-left: 7vw;
-  margin-top: 29vw;
+  margin-left: 3vw;
+  margin-top: 92vw;
   background: url('../images/chel.svg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -103,11 +106,12 @@ h1 {
 .buble {
   width: 12.5vw;
   height: 9.5vw;
-  margin-left: 19vw;
-  margin-top: -50vw;
+  margin-left: 8vw;
+  margin-top: -56vw;
   background: url('../images/buble.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .kit {
   width: 46vw;
@@ -117,6 +121,7 @@ h1 {
   background: url('../images/kit.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.2);
 }
 .exist1 {
   width: 88.6vw;
@@ -126,6 +131,7 @@ h1 {
   background: url('../images/k.png');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.2);
 }
 .mesto {
   width: 101vw;
@@ -141,6 +147,7 @@ h1 {
   background: url('../images/kit2.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.2);
 }
 @keyframes op {
   0% {opacity: 1}
@@ -166,7 +173,7 @@ h1 {
   width: 38.2vw;
   height: 29.3vw;
   margin-left: 46vw;
-  margin-top: -13vw;
+  margin-top: 3vw;
   background: url('../images/kit3.svg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -181,8 +188,8 @@ h1 {
 .chel2 {
   width: 25.9vw;
   height: 19.1vw;
-  margin-left: 7vw;
-  margin-top: 2.1vw;
+  margin-left: 3.1vw;
+  margin-top: 49.1vw;
   background: url('../images/chel2.svg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -204,7 +211,7 @@ h1 {
 .star2 {
   width: 10.5vw;
   height: 10.5vw;
-  margin-top: -41.5vw;
+  margin-top: -87.5vw;
   margin-left: 80vw;
   background: url('../images/star2.svg');
   background-repeat: no-repeat;
@@ -213,137 +220,150 @@ h1 {
 .jest {
   width: 12.5vw;
   height: 9.7vw;
-  margin-top: -28vw;
+  margin-top: -35vw;
   margin-left: 30vw;
   background: url('../images/jest.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .strelka0 {
   width: 4.4vw;
   height: 6.2vw;
-  margin-left: 95vw;
-  margin-top: 20.5vw;
+  margin-left: 91vw;
+  margin-top: 44.5vw;
   background: url('../images/strelka0.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2.5);
 }
 .f3 {
-  height: 57vw;
-  background: url(../images/frame3.png);
+  height: 143.1vw;
+  background: url(../images/ipad2.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .text3 {
-  width: 48.2vw;
-  height: 31vw;
+  width: 71vw;
+  height: 53vw;
   background: #FF5732;
   margin-top: -10.6vw;
 }
 .strelka4 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 46.8vw;
-  margin-top: 15.6vw;
+  margin-left: 69.2vw;
+  margin-top: 29.3vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .text4 {
-  width: 48.2vw;
-  height: 31vw;
+  width: 71vw;
+  height: 53vw;
   background: #FF5732;
   margin-top: -10.6vw;
 }
 .strelka5 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 0vw;
-  margin-top: 20.6vw;
+  margin-left: 0.4vw;
+  margin-top: 37.3vw;
   background: url('../images/strelka2.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .strelka6 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 46.8vw;
+  margin-left: 69.2vw;
   margin-top: -2.8vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .p1 {
   width: 20.8vw;
   height: 20.8vw;
   margin-left: 27vw;
-  margin-top: -2vw;
+  margin-top: 16vw;
   background: url('../images/p1.png');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .p2 {
   width: 24vw;
   height: 24vw;
-  margin-left: 51vw;
-  margin-top: -25vw;
+  margin-left: 53vw;
+  margin-top: -7vw;
   background: url('../images/p2.png');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .p3 {
   width: 19.6vw;
   height: 19.6vw;
   margin-left: 77vw;
-  margin-top: -21vw;
+  margin-top: -26vw;
   background: url('../images/p3.png');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .p4 {
   width: 37vw;
   height: 37vw;
   margin-left: 30.9vw;
-  margin-top: -1vw;
+  margin-top: 14vw;
   background: url('../images/p4.png');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .p5 {
   width: 28vw;
   height: 28vw;
-  margin-left: 68vw;
+  margin-left: 78vw;
   margin-top: -40vw;
   background: url('../images/p5.png');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .kit4 {
   width: 17.6vw;
   height: 13.5vw;
-  margin-left: 2vw;
-  margin-top: -31vw;
+  margin-left: 7vw;
+  margin-top: -36vw;
   background: url('../images/kit4.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .chel3 {
   width: 9.6vw;
   height: 8vw;
-  margin-left: 0vw;
-  margin-top: 15vw;
+  margin-left: 2vw;
+  margin-top: 58.7vw;
   background: url('../images/chel3.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .buble2 {
   width: 12.5vw;
   height: 9.7vw;
-  margin-left: 6vw;
-  margin-top: -18vw;
+  margin-left: 14vw;
+  margin-top: -27vw;
   background: url('../images/buble2.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .animka3 {
   animation: polet 2.2s linear;
@@ -355,53 +375,57 @@ h1 {
   100% {margin-left: 200vw;}
 }
 .f4 {
-  height: 57vw;
-  background: url(../images/frame4.png);
+  height: 143.1vw;
+  background: url(../images/ipad3.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-size: cover;
 }
 .text5 {
-  width: 48.2vw;
-  height: 31vw;
+  width: 71vw;
+  height: 53vw;
   background: #FF5732;
   margin-top: -10.6vw;
 }
 .strelka7 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 46.8vw;
-  margin-top: 20.6vw;
+  margin-left: 69.2vw;
+  margin-top: 37.3vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .s1 {
   width: 16vw;
   height: 16vw;
   margin-left: 71vw;
-  margin-top: 28vw;
+  margin-top: 104vw;
   background: url('../images/s1.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .s2 {
   width: 16vw;
   height: 16vw;
   margin-left: 25vw;
-  margin-top: -22vw;
+  margin-top: -44vw;
   background: url('../images/s2.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .s3 {
   width: 16vw;
   height: 16vw;
   margin-left: 62vw;
-  margin-top: -42vw;
+  margin-top: -37vw;
   background: url('../images/s3.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .tr1 {
   width: 27vw;
@@ -411,107 +435,120 @@ h1 {
   background: url('../images/tr1.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .mesto2 {
   width: 15vw;
   height: 15vw;
   margin-left: 44vw;
-  margin-top: 16vw;
+  margin-top: 31vw;
   /* background: blue; */
+  transform: scale(2);
 }
 .mesto3 {
   width: 15vw;
   height: 15vw;
   margin-left: 44vw;
-  margin-top: -30vw;
+  margin-top: -44vw;
   /* background: yellow; */
+  transform: scale(2);
 }
 .mesto4 {
   width: 15vw;
   height: 15vw;
   margin-left: 44vw;
-  margin-top: -30vw;
+  margin-top: -45vw;
   /* background: red; */
+  transform: scale(2);
 }
 .mesto5 {
   width: 15vw;
   height: 15vw;
   margin-left: 44vw;
-  margin-top: -30vw;
+  margin-top: -45vw;
   /* background: green; */
+  transform: scale(2);
 }
 .strelka8 {
   width: 4.4vw;
   height: 6.2vw;
-  margin-left: 94.9vw;
-  margin-top: 33.5vw;
+  margin-left: 91vw;
+  margin-top: 84.5vw;
   background: url('../images/strelka0.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2.5);
 }
 .chel4 {
   width: 9.6vw;
   height: 8vw;
-  margin-left: 0vw;
-  margin-top: -7vw;
+  margin-left: 2vw;
+  margin-top: -4vw;
   background: url('../images/chel3.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .buble3 {
   width: 12.5vw;
   height: 9.7vw;
-  margin-left: 8vw;
-  margin-top: -18vw;
+  margin-left: 13vw;
+  margin-top: -26vw;
   background: url('../images/buble3.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .dom {
   width: 25.5vw;
   height: 58.5vw;
   margin-left: 38.8vw;
-  margin-top: -48vw;
+  margin-top: -69vw;
   background: url('../images/dom.png');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(2);
 }
 .f5 {
-  height: 57vw;
+  height: 143.1vw;
   background: #FF5732;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .text6 {
-  width: 48.2vw;
-  height: 31vw;
+  width: 71vw;
+  height: 53vw;
   background: black;
   margin-top: -10.6vw;
 }
 .strelka9 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 46.8vw;
-  margin-top: 23.1vw;
+  margin-left: 69.2vw;
+  margin-top: 41.3vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
+  transform: scale(1.5);
 }
 .kupon {
-  width: 52.1vw;
-  height: 19.5vw;
-  margin-left: 23.1vw;
-  margin-top: 7vw;
-  background: url('../images/kupon.svg');
+  width: 82.3vw;
+  height: 53.6vw;
+  margin-left: 10.1vw;
+  margin-top: 27vw;
+  background: url('../images/ipadkup.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .text7 {
-  width: 95vw;
-  height: 4vw;
-  margin-left: 2.5vw;
-  margin-top: 16vw;
+  width: 98vw;
+  height: 53vw;
+  margin-left: -1.5vw;
+  margin-top: 45vw;
   display: flex;
   justify-content: space-between;
+}
+.t7 {
+  margin-left: 4vw;
 }
 }
