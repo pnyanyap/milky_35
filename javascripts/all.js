@@ -291,4 +291,11 @@ $(document).ready(function(){
       $(".text6").removeClass("none");
     }
   });
+  $(".strelka9").click(function(){
+    if ($(".frame").hasClass("f5")) {
+      $(".text6").remove();
+      $(".kupon").removeClass("none");
+      $(".t7").removeClass("none");
+    }
+  });
 });
