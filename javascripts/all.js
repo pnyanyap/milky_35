@@ -167,7 +167,7 @@ $(document).ready(function(){
       $('.kit4').addClass("animka3");
     }, 500);
       setTimeout(function(){
-      $('.kit4').addClass("none");
+      $('.kit4').remove();
     }, 2000);
       setTimeout(function(){
       $('.kit2').removeClass("none");
@@ -236,8 +236,8 @@ $(document).ready(function(){
     $( ".mesto2" ).droppable({
       drop: function( event, ui ) {
         $( ".s1" )
-        .css( "top", "5vw" )
-        .css( "left", "-25vw" )
+        .css( "top", "3vw" )
+        .css( "left", "-27.2vw" )
       }
     });
   } );
@@ -246,8 +246,8 @@ $(document).ready(function(){
     $( ".mesto3" ).droppable({
       drop: function( event, ui ) {
         $( ".s2" )
-        .css( "top", "-4vw" )
-        .css( "left", "16vw" )
+        .css( "top", "-5vw" )
+        .css( "left", "18.8vw" )
       }
     });
   } );
@@ -256,8 +256,8 @@ $(document).ready(function(){
     $( ".mesto4" ).droppable({
       drop: function( event, ui ) {
         $( ".s3" )
-        .css( "top", "7vw" )
-        .css( "left", "-11vw" )
+        .css( "top", "6vw" )
+        .css( "left", "-18.2vw" )
       }
     });
   } );
@@ -266,8 +266,8 @@ $(document).ready(function(){
     $( ".mesto5" ).droppable({
       drop: function( event, ui ) {
         $( ".tr1" )
-        .css( "top", "-12vw" )
-        .css( "left", "18.3vw" )
+        .css( "top", "-13vw" )
+        .css( "left", "35.2vw" )
         setTimeout(function(){
         $('.strelka8').removeClass("none1");
       }, 800);

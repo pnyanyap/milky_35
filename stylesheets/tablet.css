@@ -1,22 +1,22 @@
-@media all and (min-width: 1024px) {
+@media all and (min-width: 834px) and (max-width: 1023px) {
 body {
   width: 100vw;
-  height: 57vw;
+  height: 110vw;
 }
 .frame{
   width: 100vw;
-  height: 31vw;
+  height: 117.1vw;
   overflow: hidden;
 }
 .f1 {
-  background: url(../images/frame.png);
+  background: url(../images/ipad.png);
   background-repeat: no-repeat;
   padding: 13vw 0vw;
   background-size: cover;
 }
 .f2 {
-  height: 57vw;
-  background: url(../images/frame2.png);
+  height: 143.1vw;
+  background: url(../images/ipad1.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -26,7 +26,7 @@ body {
 .star {
   width: 10.4vw;
   height: 10.4vw;
-  margin-left: 61vw;
+  margin-left: 69vw;
   background: url('../images/star.svg');
   background-repeat: no-repeat;
   animation: star .5s linear alternate infinite;
