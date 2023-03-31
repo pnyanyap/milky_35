@@ -5,18 +5,18 @@ body {
 }
 .frame{
   width: 100vw;
-  height: 117.1vw;
+  height: 192.6vw;
   overflow: hidden;
 }
 .f1 {
-  background: url(../images/ipad.png);
+  background: url(../images/iphone.png);
   background-repeat: no-repeat;
   padding: 13vw 0vw;
   background-size: cover;
 }
 .f2 {
-  height: 143.1vw;
-  background: url(../images/ipad1.png);
+  height: 216.3vw;
+  background: url(../images/iphone2.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -26,33 +26,35 @@ body {
 .star {
   width: 10.4vw;
   height: 10.4vw;
-  margin-left: 69vw;
+  margin-top: 60vw;
+  margin-left: 71vw;
   background: url('../images/star.svg');
   background-repeat: no-repeat;
   animation: star .5s linear alternate infinite;
   background-size: cover;
+  transform: scale(3);
 }
 @keyframes star {
-  0% {transform: scale(1);}
-  100% {transform: scale(2);}
+  0% {transform: scale(3);}
+  100% {transform: scale(4);}
 }
 .text1 {
-  width: 71vw;
-  height: 53vw;
+  width: 100vw;
+  height: 69vw;
   background: #FF5732;
-  margin-top: 0vw;
+  margin-top: 10vw;
 }
 .text2 {
-  width: 71vw;
-  height: 53vw;
+  width: 100vw;
+  height: 69vw;
   background: #FF5732;
-  margin-top: 0vw;
+  margin-top: 10vw;
 }
 h1 {
   font-family: Inter;
   color: white;
-  font-size: 3.5vw;
-  line-height: 4vw;
+  font-size: 5vw;
+  line-height: 6vw;
 }
 .t0 {
   margin-top: 4vw;
@@ -60,32 +62,32 @@ h1 {
 .strelka {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 69.2vw;
-  margin-top: 21.3vw;
+  margin-left: 96.9vw;
+  margin-top: 23.2vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  transform: scale(1.5);
+  transform: scale(3);
 }
 .strelka2 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 0.4vw;
-  margin-top: 25.3vw;
+  margin-left: 1.4vw;
+  margin-top: 27.2vw;
   background: url('../images/strelka2.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  transform: scale(1.5);
+  transform: scale(3);
 }
 .strelka3 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 69.2vw;
+  margin-left: 96.9vw;
   margin-top: -2.8vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  transform: scale(1.5);
+  transform: scale(3);
 }
 .t2 {
   margin-left: 0vw;
@@ -98,7 +100,7 @@ h1 {
   width: 28.7vw;
   height: 19.1vw;
   margin-left: 3vw;
-  margin-top: 92vw;
+  margin-top: 145vw;
   background: url('../images/chel.svg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -106,12 +108,12 @@ h1 {
 .buble {
   width: 12.5vw;
   height: 9.5vw;
-  margin-left: 8vw;
-  margin-top: -56vw;
-  background: url('../images/buble.svg');
+  margin-left: 17vw;
+  margin-top: -94vw;
+  background: url('../images/bublee.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  transform: scale(2);
+  transform: scale(3);
 }
 .kit {
   width: 46vw;
@@ -135,15 +137,15 @@ h1 {
 }
 .mesto {
   width: 101vw;
-  height: 58vw;
+  height: 216vw;
   margin-left: 0vw;
-  margin-top: -61vw;
+  margin-top: -187vw;
 }
 .kit2 {
   width: 46vw;
   height: 48vw;
   margin-left: 60vw;
-  margin-top: -48.6vw;
+  margin-top: -80.6vw;
   background: url('../images/kit2.svg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -189,7 +191,7 @@ h1 {
   width: 25.9vw;
   height: 19.1vw;
   margin-left: 3.1vw;
-  margin-top: 49.1vw;
+  margin-top: 70vw;
   background: url('../images/chel2.svg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -238,52 +240,51 @@ h1 {
   transform: scale(2.5);
 }
 .f3 {
-  height: 143.1vw;
+  height: 216.3vw;
   background: url(../images/ipad2.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .text3 {
-  width: 71vw;
-  height: 53vw;
+  width: 100vw;
+  height: 69vw;
   background: #FF5732;
   margin-top: -10.6vw;
 }
 .strelka4 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 69.2vw;
+  margin-left: 96.9vw;
   margin-top: 29.3vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  transform: scale(1.5);
+  transform: scale(3);
 }
 .text4 {
-  width: 71vw;
-  height: 53vw;
+  width: 100vw;
+  height: 69vw;
   background: #FF5732;
   margin-top: -10.6vw;
 }
 .strelka5 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 0.4vw;
+  margin-left: 1.4vw;
   margin-top: 37.3vw;
   background: url('../images/strelka2.svg');
   background-repeat: no-repeat;
-  background-size: cover;
-  transform: scale(1.5);
+  transform: scale(3);
 }
 .strelka6 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 69.2vw;
+  margin-left: 96.9vw;
   margin-top: -2.8vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  transform: scale(1.5);
+  transform: scale(3);
 }
 .p1 {
   width: 20.8vw;
@@ -375,27 +376,27 @@ h1 {
   100% {margin-left: 200vw;}
 }
 .f4 {
-  height: 143.1vw;
+  height: 216.3vw;
   background: url(../images/ipad3.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-size: cover;
 }
 .text5 {
-  width: 71vw;
-  height: 53vw;
+  width: 100vw;
+  height: 69vw;
   background: #FF5732;
   margin-top: -10.6vw;
 }
 .strelka7 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 69.2vw;
+  margin-left: 96.9vw;
   margin-top: 37.3vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  transform: scale(1.5);
+  transform: scale(3);
 }
 .s1 {
   width: 16vw;
@@ -510,26 +511,26 @@ h1 {
   transform: scale(2);
 }
 .f5 {
-  height: 143.1vw;
+  height: 216.3vw;
   background: #FF5732;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .text6 {
-  width: 71vw;
-  height: 53vw;
+  width: 100vw;
+  height: 69vw;
   background: black;
   margin-top: -10.6vw;
 }
 .strelka9 {
   width: 1.4vw;
   height: 2.8vw;
-  margin-left: 69.2vw;
+  margin-left: 96.9vw;
   margin-top: 41.3vw;
   background: url('../images/strelka.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  transform: scale(1.5);
+  transform: scale(3);
 }
 .kupon {
   width: 82.3vw;
@@ -541,8 +542,8 @@ h1 {
   background-size: cover;
 }
 .text7 {
-  width: 98vw;
-  height: 53vw;
+  width: 100vw;
+  height: 69vw;
   margin-left: -1.5vw;
   margin-top: 45vw;
   display: flex;
