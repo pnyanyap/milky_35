@@ -100,7 +100,7 @@ $(document).ready(function(){
       }, 4800);
       setTimeout(function(){
       $('.strelka0').removeClass("none");
-    }, 5500);
+    }, 6000);
     }
   });
   $(".strelka0").click(function(){
@@ -174,10 +174,10 @@ $(document).ready(function(){
     }, 500);
     setTimeout(function(){
     $('.chel3').addClass("none");
-  }, 100);
+  }, 200);
     setTimeout(function(){
     $('.buble2').addClass("none");
-  }, 100);
+  }, 200);
     setTimeout(function(){
     $('.p1').addClass("none");
     }, 2200);
@@ -268,7 +268,11 @@ $(document).ready(function(){
         $( ".tr1" )
         .css( "top", "-12vw" )
         .css( "left", "18.3vw" )
+        setTimeout(function(){
         $('.strelka8').removeClass("none1");
+      }, 800);
+        $('.chel4').addClass("none1");
+        $('.buble3').addClass("none1");
       }
     });
   } );
