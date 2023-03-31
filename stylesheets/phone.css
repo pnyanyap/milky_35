@@ -9,7 +9,7 @@ body {
   overflow: hidden;
 }
 .f1 {
-  background: url('../images/iphone2.png');
+  background: url(../images/iphone.png);
   background-repeat: no-repeat;
   padding: 13vw 0vw;
   background-size: cover;
